@@ -6,4 +6,8 @@
     <string name="txtPassword">Şifre</string>
     <string name="txtMail">Mail</string>
     <string name="google_sign">Google İle Giriş</string>
+    <string name="txtUserName">İsim - Soyisim</string>
+    <string name="txtPasswordAgain">Şifre (Tekrar)</string>
+    <string name="btnRegisterSaveUser">Kaydet</string>
+    <string name="btnRegisterClear">Temizle</string>
 </resources>
