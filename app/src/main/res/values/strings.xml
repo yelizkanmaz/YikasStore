@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">YikasStore</string>
+    <string name="txtForgetPassword">Şifremi unuttum</string>
+    <string name="txtCreateNewUser">Yeni Hesap Oluştur</string>
+    <string name="login">Giriş</string>
+    <string name="txtPassword">Şifre</string>
+    <string name="txtMail">Mail</string>
+    <string name="google_sign">Google İle Giriş</string>
 </resources>
