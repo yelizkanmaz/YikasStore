@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151483749814",
+    "project_id": "yikas-store",
+    "storage_bucket": "yikas-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151483749814:android:24ffbd650644c98e5add17",
+        "android_client_info": {
+          "package_name": "com.example.yikasstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151483749814-eqlmb9c71ban18sb74s55qjgtfa9n3nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJQBD-56JCYLXBeOv1jcc1rdmHh6BD8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151483749814-eqlmb9c71ban18sb74s55qjgtfa9n3nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
