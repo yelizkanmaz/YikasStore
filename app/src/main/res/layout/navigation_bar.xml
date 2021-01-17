@@ -21,7 +21,7 @@
         android:fontFamily="sans-serif"
         android:gravity="center"
         android:text="@string/app_name"
-        android:textColor="@color/colorPrimaryDarker"
+        android:textColor="@color/white"
         android:textSize="25sp"
         android:textStyle="bold" />
 

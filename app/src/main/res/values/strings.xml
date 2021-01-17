@@ -10,4 +10,6 @@
     <string name="txtPasswordAgain">Şifre (Tekrar)</string>
     <string name="btnRegisterSaveUser">Kaydet</string>
     <string name="btnRegisterClear">Temizle</string>
+    <string name="create_new_order">Yeni Sipariş Oluştur</string>
+    <string name="past_orders">Geçmiş Siparişler</string>
 </resources>
