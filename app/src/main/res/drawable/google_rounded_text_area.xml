@@ -6,7 +6,7 @@
         android:textColor="@color/white"
         />
 
-    <solid android:color="@color/colorPrimaryDark" />
+    <solid android:color="@color/black" />
 
     <padding
         android:left="1dp"
