@@ -12,4 +12,11 @@
     <string name="btnRegisterClear">Temizle</string>
     <string name="create_new_order">Yeni Sipariş Oluştur</string>
     <string name="past_orders">Geçmiş Siparişler</string>
+    <string name="menu_profile">Profil</string>
+    <string name="menu_categories">Kategoriler</string>
+    <string name="menu_campaigns">Kampanyalar</string>
+    <string name="menu_contact">İletişim</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="cat_categories">Kediler</string>
+    <string name="dog_categories">Köpekler</string>
 </resources>

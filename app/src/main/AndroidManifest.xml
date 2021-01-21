@@ -11,11 +11,18 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".DogsCategories"></activity>
+        <activity android:name=".CatsCategories" />
+        <activity android:name=".ContactsActivity" />
+        <activity android:name=".CampaignsActivity" />
+        <activity android:name=".CategoriesActivity" />
         <activity android:name=".ProfileActivity" />
         <activity android:name=".MainMenuActivity" />
         <activity android:name=".ResetPassScreen" />
         <activity android:name=".RegisterScreen" />
-        <activity android:name=".SplashScreen" android:theme="@style/SplashTheme">
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
