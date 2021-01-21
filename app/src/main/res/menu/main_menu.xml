@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_profile"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:title="@string/menu_profile" />
+    <item
+        android:id="@+id/menu_categories"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:title="@string/menu_categories" >
+        <menu>
+            <item android:id="@+id/submenu_cats"
+                android:title="@string/cat_categories" />
+
+            <item android:id="@+id/submenu_dogs"
+                android:title="@string/dog_categories" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/menu_campaigns"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:title="@string/menu_campaigns" />
+
+    <item
+        android:id="@+id/menu_contact"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:title="@string/menu_contact" />
+    <item
+        android:id="@+id/menu_logout"
+        app:showAsAction="never"
+        android:orderInCategory="100"
+        android:title="@string/logout" />
+</menu>
