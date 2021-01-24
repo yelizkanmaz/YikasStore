@@ -4,37 +4,36 @@
 
     <item
         android:id="@+id/menu_profile"
-        app:showAsAction="never"
         android:orderInCategory="100"
-        android:title="@string/menu_profile" />
-    <item
-        android:id="@+id/menu_categories"
-        app:showAsAction="never"
-        android:orderInCategory="100"
-        android:title="@string/menu_categories" >
-        <menu>
-            <item android:id="@+id/submenu_cats"
-                android:title="@string/cat_categories" />
+        android:title="@string/menu_profile"
+        app:showAsAction="never" />
 
-            <item android:id="@+id/submenu_dogs"
-                android:title="@string/dog_categories" />
-        </menu>
-    </item>
+    <item
+        android:id="@+id/submenu_cats"
+        android:orderInCategory="100"
+        android:title="@string/cat_categories"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/submenu_dogs"
+        android:orderInCategory="100"
+        android:title="@string/dog_categories"
+        app:showAsAction="never" />
 
     <item
         android:id="@+id/menu_campaigns"
-        app:showAsAction="never"
         android:orderInCategory="100"
-        android:title="@string/menu_campaigns" />
+        android:title="@string/menu_campaigns"
+        app:showAsAction="never" />
 
     <item
         android:id="@+id/menu_contact"
-        app:showAsAction="never"
         android:orderInCategory="100"
-        android:title="@string/menu_contact" />
+        android:title="@string/menu_contact"
+        app:showAsAction="never" />
     <item
         android:id="@+id/menu_logout"
-        app:showAsAction="never"
         android:orderInCategory="100"
-        android:title="@string/logout" />
+        android:title="@string/logout"
+        app:showAsAction="never" />
 </menu>
