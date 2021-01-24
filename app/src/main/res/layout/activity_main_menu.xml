@@ -22,20 +22,22 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
+        android:layout_marginTop="60dp"
         android:orientation="horizontal">
 
         <ImageView
+            android:id="@+id/imgCats"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:background="@color/black"
             android:layout_margin="10dp"
-            android:id="@+id/imgCats"/>
+            android:background="@drawable/cats" />
+
         <ImageView
+            android:id="@+id/imgDogs"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:background="@color/colorPrimary"
             android:layout_margin="10dp"
-            android:id="@+id/imgDogs"/>
+            android:background="@drawable/dogs" />
     </LinearLayout>
 
     <LinearLayout
@@ -45,18 +47,18 @@
         android:orientation="horizontal">
 
         <ImageView
+            android:id="@+id/imgTags"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:background="@color/colorPrimary"
             android:layout_margin="10dp"
-            android:id="@+id/imgTags"/>
+            android:background="@drawable/tags" />
 
         <ImageView
+            android:id="@+id/imgCollars"
             android:layout_width="150dp"
             android:layout_height="150dp"
-            android:background="@color/black"
             android:layout_margin="10dp"
-            android:id="@+id/imgCollars"/>
+            android:background="@drawable/collars" />
 
     </LinearLayout>
 
