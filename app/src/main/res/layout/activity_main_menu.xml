@@ -8,10 +8,6 @@
     android:orientation="vertical"
     tools:context=".MainMenuActivity">
 
-    <include
-        android:id="@+id/top_home_page"
-        layout="@layout/navigation_home_page_bar" />
-
     <com.daimajia.slider.library.SliderLayout
         android:id="@+id/slider"
         android:layout_width="match_parent"
