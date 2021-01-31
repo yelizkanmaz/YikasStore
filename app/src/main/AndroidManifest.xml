@@ -11,7 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ProductDetailActivity"></activity>
+        <activity android:name=".BasketActivity"></activity>
+        <activity android:name=".ProductDetailActivity" />
         <activity android:name=".TagsActivity" />
         <activity android:name=".CollarsActivity" />
         <activity android:name=".DogsCategories" />
