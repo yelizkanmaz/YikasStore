@@ -26,4 +26,7 @@
     <string name="go_to_detail">Detaya Git</string>
     <string name="clear_the_basket">Sepeti Temizle</string>
     <string name="complete_the_purchase">Alışverişi Tamamla</string>
+    <string name="write_us">Bize Yazın</string>
+    <string name="contact_message">Mesajınız</string>
+    <string name="send">Gönder</string>
 </resources>
